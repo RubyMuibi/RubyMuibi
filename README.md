@@ -5,11 +5,11 @@
 - Full-stack development
 - Web technologies
 - Artificial intelligence (AI)
+- Mobile app development
 - Problem-solving and creative coding challenges
 
 >🌱 I’m currently learning:
 
-- Advanced JavaScript concepts
 - Libraries such as Three.js for cool 3D animations
 - Database design and management 
 - Continuous integration and deployment (CI/CD)
