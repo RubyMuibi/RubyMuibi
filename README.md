@@ -1,32 +1,37 @@
-**👋 Hi, I’m @RubyMuibi**
+**👋 Hi, I’m Ruby Muibi**
 
->👀 I’m interested in:
 
-- Full-stack development
-- Web technologies
-- Artificial intelligence (AI)
-- Mobile app development
-- Problem-solving and creative coding challenges
+[![X: rubymuibi](https://img.shields.io/twitter/follow/rubymuibi)](https://twitter.com/rubymuibi)
+[![Web: rubymuibi](https://img.shields.io/badge/rubymuibi.com-000000?logo=googlechrome&logoColor=000000&style=social)](https://rubymuibi.com)
+[![GitHub: rubymuibi](https://img.shields.io/badge/rubymuibi-000000?logo=github&style=social)](https://github.com/RubyMuibi/)
+[![LinkedIn: rubymuibi](https://img.shields.io/badge/rubymuibi-0077B5?logo=linkedin)](https://www.linkedin.com/in/ruby-muibi-3b4294195/)
 
->🌱 I’m currently learning:
 
-- Libraries such as Three.js for cool 3D animations
-- Database design and management 
-- Continuous integration and deployment (CI/CD)
-- Artificial intelligence and natural language processing (NLP)
 
->💞️ I’m looking to collaborate on:
+```javascript
+const ruby = {
+    code: ["JavaScript", "Python", "HTML", "CSS"],
 
-- Exciting software development projects
-- Open-source contributions
-- Hackathons and coding competitions
-- Anything that involves innovation and learning
+    technologies: { 
+        backEnd: [ "Node.js", "Express.js"],
+        frontEnd: [ "React", "Next.js", "Tailwind CSS"],
+        mobileApp: ["React Native"],
+        databases: ["MongoDB", "MySQL"],
+        devOps: ["AWS", "GitHub Actions"],
+        misc: ["Figma"]
+    },
+    
+    askMeAbout: [ "Web development", "Mobile app development", "Technology", "Algebra"],
 
->📫 How to reach me:
+    currentFocus: {
+         learning: ["Three.js", "Docker"],
+         rubyMuibiOrg: "Open source AI applications",
+         r24Dev: "A developer platform",
+    },
 
-Feel free to reach out to me via email at hi@rubymuibi.com or connect with me on [Twitter](https://twitter.com/rubymuibi) or [LinkedIn](https://www.linkedin.com/in/ruby-muibi-3b4294195/)!
+    goals: ["Open-source contributions"]
+};
 
-<!---
-RubyMuibi/RubyMuibi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+console.log(ruby)
+```
+
