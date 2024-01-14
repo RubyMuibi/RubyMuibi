@@ -29,7 +29,7 @@ const ruby = {
          r24Dev: "A developer platform",
     },
 
-    goals: ["Open-source contributions"]
+    goals: "Open-source contributions"
 };
 
 console.log(ruby)
