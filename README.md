@@ -16,7 +16,7 @@ const ruby = {
         backEnd: [ "Node.js", "Express.js"],
         frontEnd: [ "React", "Next.js", "Tailwind CSS"],
         mobileApp: ["React Native"],
-        databases: ["MongoDB", "MySQL"],
+        databases: ["MongoDB", "PostgreSQL"],
         devOps: ["AWS", "GitHub Actions"],
         misc: ["Figma"]
     },
