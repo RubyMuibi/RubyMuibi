@@ -13,20 +13,19 @@ const ruby = {
     code: ["JavaScript", "Python", "HTML", "CSS"],
 
     technologies: { 
-        backEnd: [ "Node.js", "Express.js"],
-        frontEnd: [ "React", "Next.js", "Tailwind CSS"],
+        backEnd: ["Node.js", "Express.js"],
+        frontEnd: ["React", "Next.js", "Tailwind CSS"],
         mobileApp: ["React Native"],
         databases: ["MongoDB", "PostgreSQL"],
-        devOps: ["AWS", "GitHub Actions"],
+        devOps: ["AWS EC2", "Google Cloud SQL", "Docker", "Jest", "GitHub Actions"],
         misc: ["Figma"]
     },
     
-    askMeAbout: [ "Web development", "Mobile app development", "Technology", "Algebra"],
+    askMeAbout: ["Web development", "Mobile app development", "Technology", "Algebra"],
 
     currentFocus: {
-         learning: ["Three.js", "Docker"],
-         rubyMuibiOrg: "Open source AI applications",
-         r24Dev: "A developer platform",
+         learning: ["Three.js"],
+         r24Dev: "A project repository platform  for developers",
     },
 
     goals: "Open-source contributions"
