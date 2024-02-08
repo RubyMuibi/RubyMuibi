@@ -10,6 +10,8 @@
 
 ```javascript
 const ruby = {
+    role: "Full-stack software developer"
+
     code: ["JavaScript", "Python", "HTML", "CSS"],
 
     technologies: { 
