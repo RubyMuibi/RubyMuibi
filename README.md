@@ -19,7 +19,7 @@ const ruby = {
         frontEnd: ["React.js", "Next.js", "Tailwind CSS"],
         mobileApp: ["React Native"],
         databases: ["PostgreSQL", "SQLite", "MongoDB"],
-        tests: ["Jest", "Supertest"]
+        tests: ["Jest", "Supertest"],
         devOps: ["Google Cloud Platform", "AWS EC2", "Docker", "GitHub Actions"],
         design: ["Figma", "Adobe Creative Cloud"]
     },
