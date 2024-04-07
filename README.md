@@ -4,7 +4,7 @@
 [![X: rubymuibi](https://img.shields.io/twitter/follow/rubymuibi)](https://twitter.com/rubymuibi)
 [![Web: rubymuibi](https://img.shields.io/badge/rubymuibi.com-000000?logo=googlechrome&logoColor=000000&style=social)](https://rubymuibi.com)
 [![GitHub: rubymuibi](https://img.shields.io/badge/rubymuibi-000000?logo=github&style=social)](https://github.com/RubyMuibi/)
-[![LinkedIn: rubymuibi](https://img.shields.io/badge/rubymuibi-0077B5?logo=linkedin)](https://www.linkedin.com/in/ruby-muibi-3b4294195/)
+[![LinkedIn: rubymuibi](https://img.shields.io/badge/rubymuibi-0077B5?logo=linkedin)](https://www.linkedin.com/in/rubymuibi/)
 
 
 
@@ -16,18 +16,19 @@ const ruby = {
 
     technologies: { 
         backEnd: ["Node.js", "Express.js"],
-        frontEnd: ["React", "Next.js", "Tailwind CSS"],
+        frontEnd: ["React.js", "Next.js", "Tailwind CSS"],
         mobileApp: ["React Native"],
-        databases: ["MongoDB", "PostgreSQL"],
-        devOps: ["AWS EC2", "Google Cloud SQL", "Docker", "Jest", "GitHub Actions"],
-        misc: ["Figma"]
+        databases: ["PostgreSQL", "SQLite", "MongoDB"],
+        tests: ["Jest", "Supertest"]
+        devOps: ["Google Cloud Platform", "AWS EC2", "Docker", "GitHub Actions"],
+        design: ["Figma", "Adobe Creative Cloud"]
     },
     
     askMeAbout: ["Web development", "Mobile app development", "Technology", "Algebra"],
 
     currentFocus: {
          learning: ["Three.js"],
-         r24Dev: "A project repository platform  for developers",
+         RubyMB: "Relational Database",
     },
 
     goals: "Open-source contributions"
