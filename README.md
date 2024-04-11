@@ -6,7 +6,10 @@
 [![GitHub: rubymuibi](https://img.shields.io/badge/rubymuibi-000000?logo=github&style=social)](https://github.com/RubyMuibi/)
 [![LinkedIn: rubymuibi](https://img.shields.io/badge/rubymuibi-0077B5?logo=linkedin)](https://www.linkedin.com/in/rubymuibi/)
 
+```bash
+npm install rubymuibi
 
+```
 
 ```javascript
 const ruby = {
