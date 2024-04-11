@@ -10,7 +10,7 @@
 
 ```javascript
 const ruby = {
-    role: "Full-stack software developer"
+    role: "Full-stack software developer",
 
     code: ["JavaScript", "Python", "HTML", "CSS"],
 
