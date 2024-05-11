@@ -1,9 +1,10 @@
 **👋 Hi, I’m Ruby Muibi**
 
 
-[![X: rubymuibi](https://img.shields.io/twitter/follow/rubymuibi)](https://twitter.com/rubymuibi)
+
 [![Web: rubymuibi](https://img.shields.io/badge/rubymuibi.com-000000?logo=googlechrome&logoColor=000000&style=social)](https://rubymuibi.com)
 [![GitHub: rubymuibi](https://img.shields.io/badge/rubymuibi-000000?logo=github&style=social)](https://github.com/RubyMuibi/)
+[![X: rubymuibi](https://img.shields.io/twitter/follow/rubymuibi)](https://twitter.com/rubymuibi)
 [![LinkedIn: rubymuibi](https://img.shields.io/badge/rubymuibi-0077B5?logo=linkedin)](https://www.linkedin.com/in/rubymuibi/)
 
 ```bash
@@ -31,7 +32,7 @@ const ruby = {
 
     currentFocus: {
          learning: ["Three.js"],
-         RubyMB: "Relational Database",
+         RubyMB: "Intelligent Base for Teams",
     },
 
     goals: "Open-source contributions"
