@@ -19,11 +19,11 @@ const ruby = {
     code: ["JavaScript", "Python", "HTML", "CSS"],
 
     technologies: { 
-        backEnd: ["Node.js", "Express.js"],
+        backEnd: ["Node.js", "Express.js", "Next.js"],
         frontEnd: ["React.js", "Next.js", "Tailwind CSS"],
         mobileApp: ["React Native"],
         databases: ["PostgreSQL", "SQLite", "MongoDB"],
-        tests: ["Jest", "Supertest"],
+        tests: ["Jest"],
         devOps: ["Google Cloud Platform", "AWS EC2", "Docker", "GitHub Actions"],
         design: ["Figma", "Adobe Creative Cloud"]
     },
@@ -35,7 +35,7 @@ const ruby = {
          RubyMB: "Intelligent Base for Teams",
     },
 
-    goals: "Open-source contributions"
+    goals: "startup"
 };
 
 console.log(ruby)
